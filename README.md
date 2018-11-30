@@ -5,7 +5,7 @@ Comes from Japanese word *押して*, meaning *push it for me*.
 
 ## Pronunciation
 *Oh-shi-te*  
-**NOT** *Oh-shi\*t*
+**NOT** Oh-sh\*t
 
 
 
