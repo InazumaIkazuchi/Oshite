@@ -1,7 +1,7 @@
 # Oshite
 
 ## About Project Name
-Comes from Japanese *押して*, meaning "push for me".
+Comes from Japanese word *押して*, meaning "push for me".
 
 ## Pronunciation
 *Oh-shi-te*  
